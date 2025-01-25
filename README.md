@@ -4,7 +4,7 @@
 
 | Framework | 简介 |
 | -------- | ------ |
-| [framework-wch51](https://github.com/OS-Q/framework-wch51) | 官方库 |
+| [framework-wch51](https://github.com/landao314/framework-wch51) | C-SDK |
 | [framework-arduinowch51](https://github.com/OS-Q/framework-arduinowch51) | Arduino |
 
 
